@@ -8,7 +8,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/cchandler/asnlookup-go/dnschainlib"
+	"github.com/chrisjchandler/dnschainlib"
 )
 
 func main() {

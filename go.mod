@@ -1,4 +1,4 @@
-module github.com/cchandler/asnlookup-go/dnschainlib
+module github.com/chrisjchandler/dnschainlib
 
 go 1.23.0
 

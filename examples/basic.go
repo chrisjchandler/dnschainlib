@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/cchandler/asnlookup-go/dnschainlib"
+	"github.com/chrisjchandler/dnschainlib"
 )
 
 func main() {
