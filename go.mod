@@ -14,3 +14,5 @@ require (
 	golang.org/x/sys v0.33.0 // indirect
 	golang.org/x/tools v0.22.0 // indirect
 )
+
+retract v0.1.0 // Published with an incorrect module path.
