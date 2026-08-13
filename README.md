@@ -1,3 +1,4 @@
+[![Go Reference](https://pkg.go.dev/badge/github.com/chrisjchandler/entropy.svg)](https://pkg.go.dev/github.com/chrisjchandler/dnschainlib)
 # dnschainlib
 
 `dnschainlib` is a small Go package used to do one thing: call RIPEstat's `dns-chain` endpoint for a hostname or IP, print the JSON, and save it. Useful enough, but awkward to reuse from other code. This package keeps the same general purpose and turns it into a normal importable library.
